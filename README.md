@@ -83,4 +83,6 @@ Letting the Streaming player keep its same view allows us to avoid the problem o
 - Need to fetch the streaming content.  This will involve researching the following resources. 
   - [Mux](https://docs.mux.com/guides/video/start-live-streaming)
   - [AVPlayerLayer](https://developer.apple.com/documentation/avfoundation/avplayerlayer)
+
+- Since the text is disconnected and random, I have a temptation to reflect that in the models. 
  
