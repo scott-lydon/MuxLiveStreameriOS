@@ -65,16 +65,16 @@ Letting the Streaming player keep its same view allows us to avoid the problem o
 - Append DetailsViewController with title: "SCREEN2"
 
 ## HomeViewController Plan ##
-  [ Label      ]
+  `[ Label      ]
   [ view       ]
   [ TableView  ] 
     <Cell>[Label  ]
-          [Content]
+          [Content]`
   
 ## DetailsViewController Plan ## 
-  [ Label     ]
+ ` [ Label     ]
   [ TableView ]
-  <Cell>[ Label ]
+  <Cell>[ Label ]`
   
 
 # Backend #
